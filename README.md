@@ -17,6 +17,8 @@ de acuerdo al rol AUTOR/REVISOR/APROBADOR se muestran los botones para mover ent
 
  mediate un flujo de power automate se van notificando a los diferentes interventores del estado del documento.
 
+<img width="1326" height="779" alt="image" src="https://github.com/user-attachments/assets/37c10a7e-38fb-423a-82e9-8666ed626ae7" />
+
  
 
 
